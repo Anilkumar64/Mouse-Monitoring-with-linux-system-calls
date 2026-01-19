@@ -1,0 +1,5 @@
+cat <<EOF > .gitignore
+build/
+.vscode/
+input-monitor
+EOF
