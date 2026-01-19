@@ -1,0 +1,3 @@
+/home/anilreddy/Documents/C++/linux input montior/build/CMakeFiles/input-monitor.dir
+/home/anilreddy/Documents/C++/linux input montior/build/CMakeFiles/edit_cache.dir
+/home/anilreddy/Documents/C++/linux input montior/build/CMakeFiles/rebuild_cache.dir

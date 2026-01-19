@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/input-monitor.dir/src/main.cpp.o CMakeFiles/input-monitor.dir/src/device.cpp.o CMakeFiles/input-monitor.dir/src/event_reader.cpp.o CMakeFiles/input-monitor.dir/src/event_printer.cpp.o -o input-monitor 
